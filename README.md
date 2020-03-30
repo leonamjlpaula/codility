@@ -1,2 +1,2 @@
 # codility
-My codility lessons using JS.
+My codility lessons using JS. Only 100% score.
